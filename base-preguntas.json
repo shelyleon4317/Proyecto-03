@@ -1,0 +1,102 @@
+[
+    {
+        "categoria": "Arte y literatura",
+        "pregunta": "¿Quién pintó la mona lisa?",
+        "respuesta": "Leonardo da Vinci",
+        "incorrecta1": "Picasso",
+        "incorrecta2": "Miguel Ángel",
+        "incorrecta3": "Monet",
+        "imagen": "https://i.ibb.co/9cjvmw1/mona-lisa.jpg",
+        "objectFit": "contain"
+    },
+    {
+        "categoria": "Películas de Disney",
+        "pregunta": "¿Cómo se llama la canción que sale, al final de la Película La Princesa y El Sapo?",
+        "respuesta": "Never Knew I Needed",
+        "incorrecta1": "Mi Princesa",
+        "incorrecta2": "Solo tú",
+        "incorrecta3": "Only You",
+        "imagen": "https://i.ytimg.com/vi/6tDvJ8po26k/maxresdefault.jpg",
+        "objectFit": "contain"
+    },
+    {
+        "categoria": "Series",
+        "pregunta": "¿Cuántas Temporadas tiene la Serie Friends?",
+        "respuesta": "10 Temporadas",
+        "incorrecta1": "5 Temporadas",
+        "incorrecta2": "2 Temporadas",
+        "incorrecta3": "15 Temporadas",
+        "imagen": "https://images.mediotiempo.com/hrm9IC552FaAV6dL9txLbAzyOYE=/958x596/uploads/media/2019/07/10/a-partid-de-formara-parte.jpg",
+        "objectFit": "contain"
+    } ,
+    {
+        "categoria": "Arte y literatura",
+        "pregunta": "¿Quién pintó La Última Cena?",
+        "respuesta": "Leonardo da Vinci",
+        "incorrecta1": "Van Gogh",
+        "incorrecta2": "Miguel Ángel",
+        "incorrecta3": "Picasso",
+        "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/The_Last_Supper_-_Leonardo_Da_Vinci_-_High_Resolution_32x16.jpg/300px-The_Last_Supper_-_Leonardo_Da_Vinci_-_High_Resolution_32x16.jpg",
+        "objectFit": "contain"
+    },
+    {
+        "categoria": "Películas de Disney",
+        "pregunta": "¿Cómo se llama las Hadas Madrinas Buenas, de la Bella Durmiente?",
+        "respuesta": "Flora, Fauna y Primavera",
+        "incorrecta1": "Star, Fauna y Flor",
+        "incorrecta2": "Primavera, Bloom y Sol",
+        "incorrecta3": "Cook, Conni y Fauna",
+        "imagen": "https://www.abc.es/media/peliculas/000/001/435/la-bella-durmiente-2.jpg",
+        "objectFit": "contain"
+    },
+    {
+        "categoria": "Series",
+        "pregunta": "¿A que serie pertenece, este Personaje?",
+        "respuesta": "Flash",
+        "incorrecta1": "Hombre Araña",
+        "incorrecta2": "Batman",
+        "incorrecta3": "Once Upon A Time",
+        "imagen": "https://i.pinimg.com/474x/ff/f9/9d/fff99d833b75dd64930b02fd59e73ee3--grant-gustin-green-arrow.jpg",
+        "objectFit": "contain"
+    },
+    {
+        "categoria": "Arte y literatura",
+        "pregunta": "¿Quién Escribió La Odisea?",
+        "respuesta": "Homero",
+        "incorrecta1": "Socrates",
+        "incorrecta2": "Miguel Ángel",
+        "incorrecta3": "Chaplin",
+        "imagen": "http://data.ecasals.net/img/04/g/9788498253351_04_g.jpg",
+        "objectFit": "contain"
+    },
+    {
+        "categoria": "Películas de Disney",
+        "pregunta": "¿Cuántas Películas tiene Tinkerbell?",
+        "respuesta": "7 Películas",
+        "incorrecta1": "4 Películas",
+        "incorrecta2": "10 Películas",
+        "incorrecta3": "2 Películas",
+        "imagen": "http://2.bp.blogspot.com/-5msUaJV_heo/VNTZ9SLA5_I/AAAAAAAACqA/z0F15euzmyI/s1600/tinkerbell_PM.jpg",
+        "objectFit": "contain"
+    },
+    {
+        "categoria": "Series",
+        "pregunta": "¿Cuántas Temporadas Tiene Grey's Anatomy?",
+        "respuesta": "18 Temporadas",
+        "incorrecta1": "10 Temporadas",
+        "incorrecta2": "4 Temporadas",
+        "incorrecta3": "15 Temporadas",
+        "imagen": "https://larepublica.pe/resizer/qSy3dmMdVGEpqRD8eZx3Sjuh21U=/1250x735/top/smart/cloudfront-us-east-1.images.arcpublishing.com/gruporepublica/I7NEP4NXHJDYVOK5R2A4GXFTEA.jpg",
+        "objectFit": "contain"
+    },
+    {
+        "categoria": "Arte y literatura",
+        "pregunta": "¿Quién Escribió Edipo Rey ?",
+        "respuesta": "Sófocles",
+        "incorrecta1": "Eratóstenes",
+        "incorrecta2": "Anaxímenes",
+        "incorrecta3": "Aristeas de Proconeso",
+        "imagen": "http://data.ecasals.net/img/04/g/9788498253351_04_g.jpg",
+        "objectFit": "contain"
+    }
+]
